@@ -23,6 +23,13 @@ API comes from [MOVIEDB]
 
 ## Work log
 
+#### 15.12.2018 20:00-22:00 "version": "0.1.0"
+
+####### Styles
+
+    Themeprovider, files arange
+
+
 #### 13.12.2018 08:00-16:00 "version": "0.1.0"
 
 ####### Project setup 
@@ -39,3 +46,5 @@ API comes from [MOVIEDB]
         "command": "workbench.action.focusFirstEditorGroup"
 
 ## Todo
+
+    Theme swapper

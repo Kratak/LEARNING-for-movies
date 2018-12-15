@@ -34,22 +34,16 @@ const oneLight =
 }
 
 const netlix = {
-    background:  '#221F1F',
-    background02:'#221f1f',
-    background03:'#1a0d0d',
+    background:  '#000000',
     black:       '#383a42',
     blue:        '#0184bc',
     cyan:        '#0997b3',
-    grey:        '#564d4d',
+    grey:        '#181818',
     cyandark:    '#076e82',
-    foreground:  '#ededeb',
-    foreground02:'#7b7c7c',
+    foreground:  '#dedede',
     green:       '#50a14f',
     magenta:     '#a626a4',
-    red:         '#E50914',
-    red2:        '#db0404',
-    darkred:     '#831010',
-    darkred02:   '#830908',
+    red:         '#c1071e',
     white:       '#f5f5f1',
     yellow:      '#c18401'
 }
