@@ -12,7 +12,10 @@ display: flex;
 background-color: ${({theme}) => theme.netlix.grey} ;
 
 width: 600px;
-height: 80vh;
+/* min-height: 100vh; */
+@media (max-width: 599px) {
+    width: 90vw;
+  }
 `
 
 const Layout = ({children}) => (

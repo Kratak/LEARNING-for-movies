@@ -23,9 +23,15 @@ API comes from [MOVIEDB]
 
 ## Work log
 
+#### 16.12.2018 09:30-11:00 "version": "0.1.1"
+
+####### Test Layout RWD
+
+
+
+
 #### 15.12.2018 20:00-22:00 "version": "0.1.0"
 
-####### Styles
 
     Themeprovider, files arange
 
